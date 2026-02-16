@@ -1,0 +1,11 @@
+#Simple Way to get Flask Install:
+
+🔻Note: As it is only written in Python, before installing Flask on the machine, Python should be installed previously.
+
+To install Flask, open your terminal or command prompt and enter below command:
+1)pip install Flask
+
+2)python
+import flask
+
+Happy coding🐍🔥
